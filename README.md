@@ -1,7 +1,4 @@
-# hello-world
-Welcome punny humans!
-I will be doing my task here hopefully.
-FORMAT: 1A
+# FORMAT: 1A
 HOST: https://promocodes.kiwi.com
 
 # Kiwi.com promocodes API
